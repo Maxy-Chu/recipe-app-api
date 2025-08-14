@@ -27,4 +27,4 @@ Step    1 - Create a recipe api to record the Chinese food recipe my girlfriend 
                                 -Easy to use in Docker
                       1.2.2.2 - define model & migration in docker-compose.yml
                 1.2.3 - app1: wait_for_db
-                  * deal with database running delay
+                  * deal with database race conditions
